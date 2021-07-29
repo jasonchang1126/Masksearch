@@ -1,0 +1,22 @@
+th {
+    width: 350px;
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow:   2px 2px #000000;
+    background:    #f6416c;
+    margin-top: 10px;
+    font-family: 微軟正黑體;
+}
+td{
+    text-align: center;
+    font-family: 微軟正黑體;
+}
+h1{
+    font-size: 40px;
+    color: #ffffff;
+    text-shadow:   2px 2px #000000;
+    background:    #f6416c;
+    margin-top: 2px;
+    text-align: center;
+    border-radius: 20px;
+}
